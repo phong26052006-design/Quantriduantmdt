@@ -1,10 +1,9 @@
-# Kiểm tra bản biên soạn BT2 – 19/10/2026
+# Kiểm tra biên soạn BT2 – bản rà soát 20/10/2026
 
-- Phần Opportunity Statement: 269 từ, trong khoảng 200–300 từ.
-- Đủ chân dung khách hàng, 5 câu hỏi bắt buộc, kế hoạch tuần 2 và phụ lục nguồn.
-- Word xuất PDF: 7 trang; đã xem bố cục các trang đại diện, không còn trang chỉ có phần đuôi câu.
-- 12 chỉ báo khảo sát được trích từ bản tổng hợp nhóm; tỷ số và tỷ lệ nhất quán khi tính lại. Điều này không xác nhận tính đúng của từng phản hồi gốc.
-- Tệp khảo sát gốc chưa được đối soát. Không có phản hồi cá nhân, đơn bán, doanh thu hoặc lợi nhuận do trợ lý tạo.
-- Phiếu tuần 2 trong Excel chưa có dòng trả lời; các hành động và đầu mối ở kế hoạch cần nhóm xác nhận khi triển khai.
-- Giá đối thủ và điều kiện nguồn hàng được ghi theo tài liệu nhóm; chưa khẳng định đã kiểm lại trực tuyến.
-- Tệp đề xuất nguồn được giữ nguyên để truy vết; hướng sản phẩm lấy theo kết luận cuối BT1: vòng tay mẫu có sẵn, chưa chốt mã nhập/nhà cung cấp.
+- Opportunity Statement: 270 từ; năm câu hỏi và đầy đủ phụ lục.
+- Word/PDF: 9 trang, đã kiểm trang có nội dung, biên trang và xem các trang đại diện.
+- Bảng nguồn: 20 chỉ báo đối chiếu số đếm; 14 tỷ lệ đã có trong nguồn được tính kiểm, không tự tạo tỷ lệ còn thiếu.
+- 9 tab Excel; phiếu khách và bảng đơn chưa có dòng dữ liệu.
+- Nguồn nguyên bản giữ nguyên SHA256: `cda814302b50241543bf5dfcf63e5c608c0db47abc820c61412dd6ade8293065`.
+- Giá/URL Pinky và dữ liệu khảo sát gốc chưa được xác nhận; ghi rõ trong bài.
+- Chi tiết: `RA_SOAT_VA_THAY_DOI_20_10.md`.
