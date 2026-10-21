@@ -1,0 +1,50 @@
+[
+  {
+    "file": "MC01_01_TRICH_BAO_CAO_NHU_CAU.png",
+    "source_page_pdf": 1,
+    "source_clip_pt": [
+      64.0,
+      78.0,
+      531.0,
+      528.0
+    ],
+    "source_docx_sha256": "cda814302b50241543bf5dfcf63e5c608c0db47abc820c61412dd6ade8293065",
+    "location": "Trang 1 bản PDF: phần mở đầu và bảng mục 1.1.",
+    "width_px": 1785,
+    "height_px": 2211,
+    "evidence_level": "trích từ báo cáo tổng hợp của nhóm; chưa đối soát dữ liệu gốc",
+    "export_date": "21/10/2026"
+  },
+  {
+    "file": "MC01_02_TRICH_BAO_CAO_TIEU_CHI.png",
+    "source_page_pdf": 2,
+    "source_clip_pt": [
+      64.0,
+      233.0,
+      531.0,
+      317.0
+    ],
+    "source_docx_sha256": "cda814302b50241543bf5dfcf63e5c608c0db47abc820c61412dd6ade8293065",
+    "location": "Trang 2 bản PDF: đoạn đánh giá sơ bộ sau mục 1.1.",
+    "width_px": 1785,
+    "height_px": 906,
+    "evidence_level": "trích từ báo cáo tổng hợp của nhóm; chưa đối soát dữ liệu gốc",
+    "export_date": "21/10/2026"
+  },
+  {
+    "file": "MC01_03_TRICH_BAO_CAO_CHAN_DUNG.png",
+    "source_page_pdf": 2,
+    "source_clip_pt": [
+      64.0,
+      320.0,
+      531.0,
+      775.0
+    ],
+    "source_docx_sha256": "cda814302b50241543bf5dfcf63e5c608c0db47abc820c61412dd6ade8293065",
+    "location": "Trang 2 bản PDF: mục 2.1 và bảng hai chân dung khách hàng.",
+    "width_px": 1785,
+    "height_px": 2229,
+    "evidence_level": "trích từ báo cáo tổng hợp của nhóm; chưa đối soát dữ liệu gốc",
+    "export_date": "21/10/2026"
+  }
+]

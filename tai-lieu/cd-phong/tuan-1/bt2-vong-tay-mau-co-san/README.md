@@ -15,3 +15,7 @@ Theo kết luận mới nhất, nhóm chọn vòng tay mẫu có sẵn, chưa ch
 Để đối soát trước nộp, bổ sung bản xuất khảo sát gốc/ảnh câu hỏi, ảnh giá theo cấu hình đúng URL và báo giá đơn nhỏ. Phiếu khách và bảng đơn chưa có dòng dữ liệu; bài chưa đồng nghĩa PM/PCG đã phê duyệt. Lịch sử sửa ở `RA_SOAT_VA_THAY_DOI_20_10.md`.
 
 SHA256 nguồn: `cda814302b50241543bf5dfcf63e5c608c0db47abc820c61412dd6ade8293065`
+
+## Ảnh trích báo cáo bổ sung ngày 21/10/2026
+
+[Thư mục ảnh](anh-trich-bao-cao/README.md) có 3 PNG và PDF trích từ tài liệu nhóm, kèm Word/PDF nguồn và hướng dẫn chú thích. Đây là ảnh nội dung báo cáo tổng hợp, chưa phải ảnh phản hồi Google Forms/Sheets hoặc trang bán hàng gốc. Ngày dữ liệu giữ theo nguồn; việc xuất ảnh không xác minh thêm số liệu.
