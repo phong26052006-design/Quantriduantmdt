@@ -1,6 +1,6 @@
 # BT2 – Phân tích cơ hội kinh doanh vòng tay mẫu có sẵn
 
-**Người biên soạn:** Phong – Communication & Documentation Lead.  **Ngày:** 20/10/2026.
+**Người biên soạn:** Phong – Communication & Documentation Lead.  **Ngày:** 21/10/2026.
 
 Căn cứ kết luận BT1 mới nhất của nhóm: chọn hướng vòng tay mẫu có sẵn; chưa chốt mã vòng hoặc nhà cung cấp. Nội dung dưới đây dùng số liệu nhóm đã cung cấp, có dẫn nguồn và ghi giới hạn; không thêm phản hồi, giao dịch hoặc chỉ tiêu giả định.
 
@@ -17,6 +17,8 @@ Cách tiếp cận đề xuất là giới thiệu mẫu trực tiếp qua mạn
 Số liệu hiện được trích từ bản tổng hợp, chưa đối soát phản hồi gốc. Tuần 2, nhóm dự kiến hỏi 5–10 khách về lần mua gần nhất, rồi cho xem mẫu và giá đã xác nhận để ghi lựa chọn, lý do từ chối, ý định và đơn mua nếu phát sinh.
 
 *Phần mô tả: 270 từ theo cách đếm tách bằng khoảng trắng. Nguồn: MC-00 và MC-01.*
+
+Ảnh đối chiếu: Hình MC-01a về nhu cầu, Hình MC-01b về tiêu chí và Hình MC-01c về chân dung tại phụ lục A3. Chú thích và ảnh không thuộc phần đếm 200–300 từ.
 
 ## 2. Khách hàng mục tiêu
 
@@ -117,6 +119,28 @@ Nguồn báo cáo: khảo sát 28 phản hồi ngày 18–19/10/2026, phần 1.1
 - Các tỷ lệ đã có trong nguồn được tính kiểm từ số đếm; ô tỷ lệ còn trống là nguồn chưa nêu tỷ lệ riêng. Không tự bổ sung tỷ lệ còn thiếu. Ý định trong 3 tháng, kênh ưu tiên và mức chi trả tự khai chưa phải hành vi mua ở tuần 2.
 - Ba mẫu Imoon thuộc một shop, không phải ba đối thủ độc lập. Giá nguồn khác phân khúc/chất liệu không đủ chứng minh nhóm rẻ hơn. Kịch bản vốn, phí, doanh thu và lãi trong BT1 không phải kết quả bán hàng.
 
+### A3. Ảnh trích từ báo cáo nhóm
+
+Ba ảnh dưới đây được nhúng trực tiếp trong Word/PDF. Chúng trích nguyên phần nội dung của tệp nhóm; chưa phải ảnh Google Forms/Sheets hoặc trang bán hàng gốc. Bản nguồn để đối chiếu có trong thư mục `anh-trich-bao-cao/nguon/`.
+
+**Hình MC-01a. Nhu cầu và sở thích trong báo cáo nhóm.**
+
+![Hình MC-01a – Nhu cầu và sở thích trong báo cáo nhóm](anh-trich-bao-cao/MC01_01_TRICH_BAO_CAO_NHU_CAU.png)
+
+Nguồn: tệp đề xuất nhóm, mục 1.1, trang 1 bản PDF nguồn. Ảnh giữ nguyên phần báo cáo nêu 28 phản hồi ngày 18–19/10/2026 và bảng nhu cầu. Đây là bản tổng hợp, chưa phải ảnh phản hồi khảo sát gốc.
+
+**Hình MC-01b. Tổng hợp tiêu chí chất liệu, giá và độ bền.**
+
+![Hình MC-01b – Tổng hợp tiêu chí chất liệu, giá và độ bền](anh-trich-bao-cao/MC01_02_TRICH_BAO_CAO_TIEU_CHI.png)
+
+Nguồn: tệp đề xuất nhóm, trang 2 bản PDF nguồn, đoạn đánh giá sau mục 1.1. Đoạn này còn nêu phương án tùy chọn charm/chữ cái ở giai đoạn sơ bộ; dùng ảnh để dẫn số liệu, không thay quyết định cuối BT1 chọn vòng tay mẫu có sẵn.
+
+**Hình MC-01c. Thông tin mẫu và hai chân dung khách hàng.**
+
+![Hình MC-01c – Thông tin mẫu và hai chân dung khách hàng](anh-trich-bao-cao/MC01_03_TRICH_BAO_CAO_CHAN_DUNG.png)
+
+Nguồn: tệp đề xuất nhóm, mục 2.1, trang 2 bản PDF nguồn. Kênh ưu tiên, mức chi trả tự khai và ý định mua trong ảnh chưa phải giao dịch. Số liệu được giữ theo báo cáo, chưa đối soát phản hồi gốc.
+
 ### B. Giá và nơi bán sản phẩm tương tự
 
 | Sản phẩm | Giá được nhóm ghi nhận | Nguồn/thời điểm | Giới hạn |
@@ -176,4 +200,4 @@ Giá/ship vẫn chưa được shop xác nhận. Trang shop được nhóm dẫn
 - Ảnh/link chụp đối thủ và điều kiện nguồn hàng có thời điểm, phân loại sản phẩm và phí cụ thể.
 - Kết quả kiểm chứng tuần 2 và xác nhận quyết định của nhóm sau khi hoạt động thực sự diễn ra.
 
-Các số được trích từ tệp nhóm cung cấp. Bản rà soát ngày 20/10 không phải lượt thu thêm dữ liệu: mốc khảo sát và ngày tra cứu giá vẫn giữ theo nguồn 18–19/10/2026. Chưa có đối soát phản hồi gốc hoặc kiểm tra lại trang giá trực tuyến.
+Các số được trích từ tệp nhóm cung cấp. Bản bổ sung ảnh ngày 21/10 không phải lượt thu thêm dữ liệu: mốc khảo sát và ngày tra cứu giá vẫn giữ theo nguồn 18–19/10/2026. Chưa có đối soát phản hồi gốc hoặc kiểm tra lại trang giá trực tuyến.
